@@ -1,9 +1,10 @@
 body {
-  background: #fff0f5;
-  font-family: 'Comic Sans MS', cursive;
+  background: linear-gradient(to right, #ffe0ec, #ffe0f0);
+  font-family: 'Segoe UI', cursive, sans-serif;
+  color: #4a4a4a;
   text-align: center;
-  padding: 20px;
-  color: #ff69b4;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
